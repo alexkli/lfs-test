@@ -1,5 +1,5 @@
 # lfs-test
 
-![](earth.jpg)
+![](eagle.jpg)
 
 ![](test-transparent.png)
